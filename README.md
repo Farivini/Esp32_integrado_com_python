@@ -5,6 +5,8 @@ Python 3.7
 firmware para o ESP32.
 
 import machine
+Firmware esp32
+Drive para reconhecer o controlador
 
 
 -
